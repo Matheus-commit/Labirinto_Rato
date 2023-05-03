@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b536337e-bd40-466f-b330-608f1dd76ece": {
+      "ProjectGuid": "b536337e-bd40-466f-b330-608f1dd76ece",
+      "DisplayName": "Labirinto",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
